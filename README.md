@@ -19,7 +19,7 @@ Import `native-gateway.unitypackage` and `admob-bunch.unitypackage` to your proj
 
 Add `AdmobBunch` script to a game object on your scene. No more configuration is needed.
 
-At the moment only text sharing is supported, but it can be easily extended. Follow `AdmobBunch` script to get additional details.
+Follow `AdmobBunch` script to get additional details.
 
 Related projects
 ---
